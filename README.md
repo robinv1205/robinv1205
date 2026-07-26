@@ -55,5 +55,5 @@ For translation errors, please blame Google Translate. ;)
 ---
 
 <div align="center">
-  🐧
+  &copy; 🐧
 </div>
